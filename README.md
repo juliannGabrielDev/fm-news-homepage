@@ -88,4 +88,3 @@ window.addEventListener("click", (e) => {
 
 - Julián Alejandro Gabriel Isidro
 - Frontend Mentor - [@juliannGabrielDev](https://www.frontendmentor.io/profile/juliannGabrielDev)
->>>>>>> develop
